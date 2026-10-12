@@ -3,7 +3,7 @@
 # ==============================================
 # SCRIPT : DOWNLOAD AND INSTALL EnigmaPlay-Repo #
 # =====================================================================================================================
-# Command: wget https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/main/EnigmaPlay.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/refs/heads/main/EnigmaPlay.sh -O - | /bin/sh #
 # =====================================================================================================================
 
 ########################################################################################################################
