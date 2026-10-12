@@ -1,98 +1,26 @@
 #!/bin/sh
+set -e
 
-# ==============================================
-# SCRIPT : DOWNLOAD AND INSTALL EnigmaPlay-Repo #
-# =====================================================================================================================
-# Command: wget https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/refs/heads/main/EnigmaPlay.sh -O - | /bin/sh #
-# =====================================================================================================================
+BASE="https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/main"
+IPK="enigma2-plugin-extensions-enigmaplay_v1.0_all.ipk"
+DEB="enigma2-plugin-extensions-enigmaplay_v1.0_all.deb"
 
-########################################################################################################################
-# Plugin	... Enter Manually
-########################################################################################################################
+if command -v opkg >/dev/null 2>&1; then
+    wget -qO "/tmp/$IPK" "$BASE/$IPK"
+    opkg install --force-reinstall "/tmp/$IPK"
 
-PACKAGE_DIR='EnigmaPlay-Repo/main'
+elif command -v dpkg >/dev/null 2>&1; then
+    wget -qO "/tmp/$DEB" "$BASE/$DEB"
+    dpkg -i "/tmp/$DEB"
 
-MY_IPK="https://github.com/tarek1902/EnigmaPlay-Repo/raw/main/enigma2-plugin-extensions-enigmaplay_v1.0_all.ipk"
-MY_DEB="https://github.com/tarek1902/EnigmaPlay-Repo/raw/main/enigma2-plugin-extensions-enigmaplay_v1.0_all.deb"
-
-########################################################################################################################
-# Auto ... Do not change
-########################################################################################################################
-
-# Decide : which package ?
-MY_MAIN_URL="https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/"
-if which dpkg > /dev/null 2>&1; then
-	MY_FILE=$MY_DEB
-	MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_DEB
 else
-	MY_FILE=$MY_IPK
-	MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_IPK
-fi
-MY_TMP_FILE="/tmp/"$MY_FILE
-
-echo ''
-echo '************************************************************'
-echo '**                         STARTED                        **'
-echo '************************************************************'
-echo "**                 Uploaded by: TAREK-HANFY                   **"
-echo "**                  EDITBY AHMD-ARJAN                                         **"
-echo "************************************************************"
-echo ''
-
-# Remove previous file (if any)
-rm -f $MY_TMP_FILE > /dev/null 2>&1
-
-# Download package file
-MY_SEP='============================================================='
-echo $MY_SEP
-echo 'Downloading '$MY_FILE' ...'
-echo $MY_SEP
-echo ''
-wget -T 2 $MY_URL -P "/tmp/"
-
-# Check download
-if [ -f $MY_TMP_FILE ]; then
-	# Install
-	echo ''
-	echo $MY_SEP
-	echo 'Installation started'
-	echo $MY_SEP
-	echo ''
-	if which dpkg > /dev/null 2>&1; then
-		dpkg -i --force-overwrite $MY_TMP_FILE
-		apt install -f -y
-	else
-		opkg install --force-reinstall $MY_TMP_FILE
-	fi
-	MY_RESULT=$?
-
-	# Result
-	echo ''
-	echo ''
-	if [ $MY_RESULT -eq 0 ]; then
-		echo "   >>>>   SUCCESSFULLY INSTALLED   <<<<"
-		echo ''
-		echo "   >>>>         RESTARING         <<<<"
-		if which systemctl > /dev/null 2>&1; then
-			sleep 2; systemctl restart enigma2
-		else
-			init 4
-			sleep 4 > /dev/null 2>&1
-			init 3
-		fi
-	else
-		echo "   >>>>   INSTALLATION FAILED !   <<<<"
-	fi;
-	echo ''
-	echo '**************************************************'
-	echo '**                   FINISHED                   **'
-	echo '**************************************************'
-	echo ''
-	exit 0
-else
-	echo ''
-	echo "Download failed !"
-	exit 1
+    echo "Unsupported system: opkg/dpkg not found"
+    exit 1
 fi
 
-# ------------------------------------------------------------------------------------------------------------
+echo "         UPLOADED BY TARK_HANFY    "
+
+killall -9 enigma2
+
+sleep 2;
+--------------------------------------------------------------------------------------------------
