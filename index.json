@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-11T09:06:24Z",
+ "generated": "2026-10-13T22:30:14Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -134,6 +134,7 @@
    "version": "8.11",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Aud"
    ],
@@ -179,6 +180,7 @@
    "version": "1.1",
    "description": "من مستودع المطوّر popking159 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Aud"
    ],
@@ -214,6 +216,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Acherone Script v.1.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791585749,
    "status_codes": [
     "Uti"
    ],
@@ -255,6 +258,7 @@
    "version": "2.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ai SubTitle v.2.0",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -296,6 +300,7 @@
    "version": "2.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ai SubTitle Hybrid v.2.5",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -337,6 +342,7 @@
    "version": "4.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Alternative Softcammanager v.4.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -388,6 +394,7 @@
    "version": "1.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ansite v.1.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Qur"
    ],
@@ -437,6 +444,7 @@
    "version": "2.2",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -482,6 +490,7 @@
    "version": "2.5",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -527,6 +536,7 @@
    "version": "1.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Astronomy v.1.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -594,6 +604,7 @@
    "version": "2.8",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Qur"
    ],
@@ -643,6 +654,7 @@
    "version": "1.0.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Auto-dcw-key-add v.1.0.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -710,6 +722,7 @@
    "version": "9.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Backupflashe v.9.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Bac"
    ],
@@ -777,6 +790,7 @@
    "version": "3.0-r11",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Backupsuite 3.0-r11 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Bac"
    ],
@@ -818,6 +832,7 @@
    "version": "12.81",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Mul"
    ],
@@ -867,6 +882,7 @@
    "version": "2.8.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: BissFeedAutoKey Plugin v.2.8.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -942,6 +958,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Bitrate 2.1 mod. lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -983,6 +1000,7 @@
    "version": "2.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Bootlogo Swapper v.2.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1024,6 +1042,7 @@
    "version": "2.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: CacheFlush v.2.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1091,6 +1110,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Calculatore2 v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1132,6 +1152,7 @@
    "version": "2.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -1177,6 +1198,7 @@
    "version": "1.9",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: CCcam Info 1.9 recoded by Lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -1212,12 +1234,64 @@
    "homepage": "https://www.linuxsat-support.com"
   },
   {
+   "id": "ciefpchannelhistory",
+   "category": "extensions",
+   "name": "CiefpChannelHistory",
+   "version": "1.1",
+   "description": "يُعد CiefpChannelHistory إضافةً لبرمجيات Enigma2 تتتبع سجل مشاهدة القنوات التلفزيونية وتوفر إحصائيات مفصلة، ​​كما تتميز بشاشة معلومات دليل البرامج الإلكتروني (EPG) بدقة FHD والمعززة ببيانات من TMDB وOMDb.",
+   "updated": "11.10.2026",
+   "updated_ts": 1791754062,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpchannelhistory/1.1/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "11.10.2026",
+     "1.1 - أول إصدار"
+    ]
+   ],
+   "sha256": "4a52979c2c9aa38d67929ff48ee52739cf528aead092627c98e8e6e5288d1b36",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelhistory.png?v=73be893dae",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/1.jpg?v=5b50d6cc4f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/2.jpg?v=6e556763b0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/3.jpg?v=428d530503",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/4.jpg?v=ce08f96cb3"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpchannelhistory/1.1/installer.sh",
+     "sha256": "4a52979c2c9aa38d67929ff48ee52739cf528aead092627c98e8e6e5288d1b36",
+     "size": 5447,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpchannelhistory/1.1/installer.sh",
+       "sha256": "4a52979c2c9aa38d67929ff48ee52739cf528aead092627c98e8e6e5288d1b36"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpChannelHistory/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpChannelHistory is an Enigma2 plugin that tracks TV channel\nviewing history and provides detailed statistics, featuring an\nFHD EPG Info screen enriched with TMDB/OMDb data."
+    }
+   }
+  },
+  {
    "id": "ciefpkingsat-2",
    "category": "extensions",
    "name": "Ciefpkingsat",
    "version": "2.2",
-   "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
-   "updated": "10.10.2026",
+   "description": "CiefpKingSat - نظرة عامة على موقع KingOfSat، والأقمار الصناعية، وأخبار الترددات.",
+   "updated": "13.10.2026",
+   "updated_ts": 1791914933,
    "status_codes": [
     "Uti"
    ],
@@ -1234,9 +1308,12 @@
     ]
    ],
    "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat-2.png?v=e213acc9a6",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/1.jpg?v=e9e4743106",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/2.jpg?v=094ef1073a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/3.jpg?v=66c31d25c0"
    ],
    "downloads": [
     {
@@ -1258,7 +1335,13 @@
     "3"
    ],
    "author": "ciefp",
-   "homepage": "https://github.com/ciefp/CiefpKingSat"
+   "homepage": "https://github.com/ciefp/CiefpKingSat",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpKingSat/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpKingSat - overview of the kingofsat site, satellites, news frequencies"
+    }
+   }
   },
   {
    "id": "ciefpkingsat",
@@ -1267,6 +1350,7 @@
    "version": "2.2",
    "description": "KingOfSat Viewer هو إضافة (Plugin) لأجهزة الاستقبال التي تعمل بنظام Enigma2، تتيح عرض بيانات KingOfSat مباشرةً على شاشة التلفاز.\nالإصدار الجديد 2.2: ترددات محطات راديو DAB.",
    "updated": "10.10.2026",
+   "updated_ts": 1791646374,
    "status_codes": [
     "Pan"
    ],
@@ -1323,7 +1407,8 @@
    "name": "CiefpWebCamE2PrenjSF",
    "version": "1.5",
    "description": "إضافة لأجهزة إنيجما2",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791914926,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpwebcame2prenjsf-2/1.5/installer.sh",
    "host": "github",
    "changelog": [
@@ -1337,9 +1422,11 @@
     ]
    ],
    "sha256": "836b57595d97c35131bbd80b46e82de063c9b5d32ca0b691036c1613084af781",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf-2.png?v=867c8bbf95",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/1.jpg?v=3875189ebd",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/2.jpg?v=ff713aec5a"
    ],
    "downloads": [
     {
@@ -1359,7 +1446,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "WebcamE2PRenjSF - webcam player and downloader"
+    }
+   }
   },
   {
    "id": "ciplushelper",
@@ -1368,6 +1462,7 @@
    "version": "7.0",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Sys"
    ],
@@ -1413,6 +1508,7 @@
    "version": "1.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1458,6 +1554,7 @@
    "version": "2.0",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -1503,6 +1600,7 @@
    "version": "1.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Cutsclear iet-1.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1570,6 +1668,7 @@
    "version": "7.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Dream Explorer mod. Lululla 7.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1611,6 +1710,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Dreamosat xline v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -1652,6 +1752,7 @@
    "version": "10.6+git36161",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Egamiboot v.10.6+git36161+df20ccb0+df20ccb7f0-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -1693,6 +1794,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Uninstaller-iet-1.0_all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1757,15 +1859,72 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.44",
+   "version": "1.2.58",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
-   "updated": "11.10.2026",
+   "updated": "14.10.2026",
+   "updated_ts": 1791930592,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.58/enigma2-plugin-extensions-enigmaplay_1.2.58_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "14.10.2026",
+     "1.2.58 - حماية المتجر من الإساءة: الأجهزة المحظورة ما بتقدر تستخدم خدمات الحساب"
+    ],
+    [
+     "14.10.2026",
+     "1.2.57 - استعادة البلاجن على صورة جديدة: بتتخطى البلاجن اللي ما بتشتغل على الصورة وبتقلك أسماءها، والحساب بيحفظ بس البلاجن المثبّتة من المتجر"
+    ],
+    [
+     "14.10.2026",
+     "1.2.56 - رسالة «البلجن وقف عن العمل» بتضل بالجرس لحد ما تستخدم الحل، فإذا سكّرتها بدون ما تقراها بتلاقيها هناك"
+    ],
+    [
+     "14.10.2026",
+     "1.2.55 - لما يوقف أي بلجن عن العمل، المتجر بيشرحلك السبب بالعربي وبيعرض الحل (إعادة تشغيل الواجهة أو إعادة التثبيت)"
+    ],
+    [
+     "13.10.2026",
+     "1.2.54 - «مختارات المتجر» صارت تتحدث مباشرة من لوحة الإدارة بالجوال"
+    ],
+    [
+     "13.10.2026",
+     "1.2.53 - بعد تحديث أي بلجن مثبّت بيطلب إعادة تشغيل الواجهة، حتى ما يشتغل البلجن بنص كوده القديم ويعمل كراش"
+    ],
+    [
+     "12.10.2026",
+     "1.2.52 - «أحدث الإضافات» مرتبة حسب وقت التحديث بالدقيقة"
+    ],
+    [
+     "12.10.2026",
+     "1.2.51 - «أحدث الإضافات» بتعرض لحد 30 بلجن بدل 12"
+    ],
+    [
+     "12.10.2026",
+     "1.2.50 - ما عاد يطلع «تحديث» لبلجن من الصورة نفسها لمجرد إنه اسمه متل بلجن بالمتجر (متل OAWeather)"
+    ],
+    [
+     "12.10.2026",
+     "1.2.49 - إصلاح بلاجن بيضل يطلعلها «تحديث» بعد ما تتحدّث (متل Bitrate وImdb وOAWeather)"
+    ],
+    [
+     "12.10.2026",
+     "1.2.48 - صفحة البلجن تعرض على كم رسيفر مثبّت حسب نوع الصورة حتى لو ما في آراء"
+    ],
+    [
+     "11.10.2026",
+     "1.2.47 - إصلاح ترتيب البطاقات المميزة وصفحة البلجن باللغات الأجنبية"
+    ],
+    [
+     "11.10.2026",
+     "1.2.46 - التثبيت من الجوال صار يشتغل كمان للبلاجن اللي بتنزل من رابط المطوّر مباشرة"
+    ],
+    [
+     "11.10.2026",
+     "1.2.45 - إصلاح إغلاق الواجهة إذا سكّرت المتجر والتثبيت لسا شغال"
+    ],
     [
      "11.10.2026",
      "1.2.44 - رسائل المتجر اللي فيها رابط تعرض رمز QR تمسحه بكاميرا الجوال"
@@ -1789,77 +1948,9 @@
     [
      "10.10.2026",
      "1.2.39 - صور عرض عربية، وتحسين البطاقات المميزة"
-    ],
-    [
-     "10.10.2026",
-     "1.2.38 - تحسين سطر المعلومات في البطاقات المميزة"
-    ],
-    [
-     "10.10.2026",
-     "1.2.37 - بطاقات مميزة جديدة في الرئيسية بشكل جوجل بلاي"
-    ],
-    [
-     "10.10.2026",
-     "1.2.36 - سؤال هل يعمل البلجن عندك، ونسبة نجاحه على صورتك، وإخفاء البلجنات المعطلة، وترجمة كاملة لكل اللغات"
-    ],
-    [
-     "10.10.2026",
-     "1.2.35 - الجرس يعرض ما الجديد في كل تحديث قبل تثبيته"
-    ],
-    [
-     "10.10.2026",
-     "1.2.34 - زر مشاركة (الأزرق) في صفحة البلجن مع رمز QR"
-    ],
-    [
-     "10.10.2026",
-     "1.2.33 - شارة مطوّر موثّق للبلجنات التي يديرها مطوّرها بنفسه"
-    ],
-    [
-     "10.10.2026",
-     "1.2.32 - صف جديد في الرئيسية: الرائج هذا الأسبوع"
-    ],
-    [
-     "10.10.2026",
-     "1.2.31 - إصلاح توقف الواجهة إذا انتهى التنزيل بعد إغلاق المتجر"
-    ],
-    [
-     "09.10.2026",
-     "1.2.30 - خط عربي أوضح: إزالة التشكيل الذي يظهر منفصلاً على الشاشة"
-    ],
-    [
-     "09.10.2026",
-     "1.2.29 - المصدر الأصلي واسم المطوّر في صفحة كل بلجن"
-    ],
-    [
-     "09.10.2026",
-     "1.2.28 - إصلاح ترتيب النص في نوافذ الرسائل"
-    ],
-    [
-     "09.10.2026",
-     "1.2.27 - قراءة سياسة الخصوصية وشروط الاستخدام على شاشة الرسيفر"
-    ],
-    [
-     "09.10.2026",
-     "1.2.26 - تحسين نافذة «حول EnigmaPlay»"
-    ],
-    [
-     "09.10.2026",
-     "1.2.25 - روابط سياسة الخصوصية وشروط الاستخدام في «حول EnigmaPlay»"
-    ],
-    [
-     "09.10.2026",
-     "1.2.24 - جرس الإشعارات: عدد التحديثات المتوفرة ورسائل المتجر"
-    ],
-    [
-     "09.10.2026",
-     "1.2.23 - التنزيل يعمل حتى لو كان تاريخ الرسيفر خاطئاً"
-    ],
-    [
-     "09.10.2026",
-     "1.2.22 - نافذة رسائل المتجر بتصميم جديد وعربي مرتب"
     ]
    ],
-   "sha256": "016408b44d5a26cca46113df13b38cc08075e2d7d85ae6d62c49dd35e5e0ab7f",
+   "sha256": "f7e0b28af05bc1ea1097aec4f6eca1b4a262abb8cf7f211fed31276711d03b7f",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1871,27 +1962,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.ipk",
-     "sha256": "016408b44d5a26cca46113df13b38cc08075e2d7d85ae6d62c49dd35e5e0ab7f",
-     "size": 2115130,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.58/enigma2-plugin-extensions-enigmaplay_1.2.58_all.ipk",
+     "sha256": "f7e0b28af05bc1ea1097aec4f6eca1b4a262abb8cf7f211fed31276711d03b7f",
+     "size": 2139654,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.ipk",
-       "sha256": "016408b44d5a26cca46113df13b38cc08075e2d7d85ae6d62c49dd35e5e0ab7f"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.58/enigma2-plugin-extensions-enigmaplay_1.2.58_all.ipk",
+       "sha256": "f7e0b28af05bc1ea1097aec4f6eca1b4a262abb8cf7f211fed31276711d03b7f"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.deb",
-     "sha256": "7e190532cae1da5bf2121f42a8620a59ed2aae8979cccf2dedb98fbb71ca07f4",
-     "size": 2115136,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.58/enigma2-plugin-extensions-enigmaplay_1.2.58_all.deb",
+     "sha256": "791dd58090ed152e5ce95027f73c144ac4c6ebe84f4ad5954a6895e086b0b2a0",
+     "size": 2139658,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.deb",
-       "sha256": "7e190532cae1da5bf2121f42a8620a59ed2aae8979cccf2dedb98fbb71ca07f4"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.58/enigma2-plugin-extensions-enigmaplay_1.2.58_all.deb",
+       "sha256": "791dd58090ed152e5ce95027f73c144ac4c6ebe84f4ad5954a6895e086b0b2a0"
       }
      ]
     }
@@ -2234,7 +2325,7 @@
    "author": "Ahmad Al-Arjan",
    "i18n": {
     "en": {
-     "description": "مشغّل يوتيوب حر لإنيجما2: بحث، تشغيل حتى 4K، اشتراكات، رئيسية تتعلّم من مشاهداتك، تحميل للهارد، وضع أطفال، والمزيد. مشفّر .so. غير تابع لـYouTube أو Google."
+     "description": "Free YouTube player for Enigma2: search, play up to 4K, subscriptions, a home page that learns from what you watch, download to HDD, kids mode and more. Not affiliated with YouTube or Google."
     }
    },
    "featured": true
@@ -2246,6 +2337,7 @@
    "version": "23.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Epggrabber v.23.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Epg"
    ],
@@ -2329,6 +2421,7 @@
    "version": "1.9.1",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Epg"
    ],
@@ -2378,6 +2471,7 @@
    "version": "1.4.r2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Epg Translator v.git3300+4a35314-r0_PY3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -2419,6 +2513,7 @@
    "version": "1.2",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -2468,6 +2563,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Feeds finder 20191220 V1.0 momi133 OE 2.0 All mips",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -2543,6 +2639,7 @@
    "version": "2.14",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Filecommander v.2.14 mod 2026 by lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -2584,6 +2681,7 @@
    "version": "2.6",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -2629,6 +2727,7 @@
    "version": "1.9",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Spo"
    ],
@@ -2678,6 +2777,7 @@
    "version": "1.3.5",
    "description": "من مستودع المطوّر Belfagor2005 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Wea"
    ],
@@ -2723,6 +2823,7 @@
    "version": "3.2",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -2762,12 +2863,65 @@
    "homepage": "https://github.com/OwnerPlugins/freearhey"
   },
   {
+   "id": "furybiss",
+   "category": "extensions",
+   "name": "FuryBiss",
+   "version": "7.0",
+   "description": "بلاجين لجلب الفيدات بالشفرات",
+   "updated": "13.10.2026",
+   "updated_ts": 1791885101,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.0/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "13.10.2026",
+     "7.0 - امكانيه تغير skin البلاجين"
+    ]
+   ],
+   "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/furybiss.png?v=75f42ff37f",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/1.jpg?v=b067ce348c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/2.jpg?v=9e2e5fb984",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/3.jpg?v=441e770cc2",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/4.jpg?v=25460bf8f1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/5.jpg?v=37086d31fa"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.0/installer.sh",
+     "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c",
+     "size": 8795,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/furybiss/7.0/installer.sh",
+       "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "Islam Salama",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/FuryBiss/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Feed Hunter with keys"
+    }
+   }
+  },
+  {
    "id": "gioppygio",
    "category": "extensions",
    "name": "Gioppygio",
    "version": "12.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Gioppygio v.12.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Set"
    ],
@@ -2809,6 +2963,7 @@
    "version": "5.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Hardware Info v.5.1",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -2850,6 +3005,7 @@
    "version": "2.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -2895,6 +3051,7 @@
    "version": "1.0.44",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Historyzap v.1.0.44 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -2946,6 +3103,7 @@
    "version": "1.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -2991,6 +3149,7 @@
    "version": "2.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Image Downloader v.2.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -3032,6 +3191,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: IMDb plugin v.2.1 mod lululla",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Epg"
    ],
@@ -3073,6 +3233,7 @@
    "version": "1.8",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Internet SpeedTest v.1.8",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -3114,6 +3275,7 @@
    "version": "2.6.0",
    "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية دقيقة للصورة والصوت، وواجهة جديدة بالكامل",
    "updated": "10.10.2026",
+   "updated_ts": 1791657301,
    "status_codes": [
     "Aud",
     "Spo"
@@ -3205,6 +3367,7 @@
    "version": "5.0.r0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Nov"
    ],
@@ -3240,6 +3403,7 @@
    "version": "2.15",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Epg"
    ],
@@ -3285,6 +3449,7 @@
    "version": "9.6",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Enc"
    ],
@@ -3330,6 +3495,7 @@
    "version": "1.05.20251116",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Skin e2sentials v.1.05.20251116 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -3397,6 +3563,7 @@
    "version": "1.3",
    "description": "من مستودع المطوّر levi-45 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -3450,6 +3617,7 @@
    "version": "1.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Levi45iptv v.1.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -3501,6 +3669,7 @@
    "version": "2.6",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Levi45 freeserver v.2.6 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -3584,6 +3753,7 @@
    "version": "2.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Levi45 settings_2.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Set"
    ],
@@ -3651,6 +3821,7 @@
    "version": "5.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Magic Panel v.5.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -3692,6 +3863,7 @@
    "version": "2025.12.15",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Missing Picons 2024_12_20 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pic"
    ],
@@ -3733,6 +3905,7 @@
    "version": "1.6",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pic"
    ],
@@ -3778,6 +3951,7 @@
    "version": "4.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -3823,6 +3997,7 @@
    "version": "7.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Multiboot Flashonline v.7.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -3864,6 +4039,7 @@
    "version": "1.14-r0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Multiboot Selector v.1.14-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -3931,6 +4107,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -3966,6 +4143,7 @@
    "version": "3.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ncam Status v3.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -4007,6 +4185,7 @@
    "version": "5.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Neoboot duo4k v.5.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -4064,6 +4243,7 @@
    "version": "3.9.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Neoboot e2turk v.3.9.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -4105,6 +4285,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: New Permanentclock 1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -4146,6 +4327,7 @@
    "version": "14.0",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Sys"
    ],
@@ -4191,6 +4373,7 @@
    "version": "3.9",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Novacampro py3.9 3.0-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Nov"
    ],
@@ -4232,6 +4415,7 @@
    "version": "3.5",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Wea"
    ],
@@ -4281,6 +4465,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Oaweatheriet-1.4B_all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -4348,6 +4533,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Mul"
    ],
@@ -4393,6 +4579,7 @@
    "version": "6.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Oscam Status 6.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -4468,6 +4655,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Picon Buddy v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pic"
    ],
@@ -4509,6 +4697,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Plugin Skin Mover 1.0",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -4576,6 +4765,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Quran-Karim v.2.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Qur"
    ],
@@ -4617,6 +4807,7 @@
    "version": "1.2",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Rad"
    ],
@@ -4662,6 +4853,7 @@
    "version": "1.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: RadioM v.1.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Rad"
    ],
@@ -4703,6 +4895,7 @@
    "version": "19.0",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -4752,6 +4945,7 @@
    "version": "20240324",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Rakuten TV 20240324 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -4793,6 +4987,7 @@
    "version": "23.04.05.1156",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: S4aupdater 23.04.05.1156 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -4868,6 +5063,7 @@
    "version": "20250815",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Samsung Tv Plus 20250815 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -4935,6 +5131,7 @@
    "version": "3.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: ScreenGrabber mod by Lululla v.3.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5002,6 +5199,7 @@
    "version": "1.07.20250608",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Screen Names v.1.07.20250608 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5069,6 +5267,7 @@
    "version": "1.30",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -5114,6 +5313,7 @@
    "version": "1.3.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Service Scan Updates v.1.3.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sys"
    ],
@@ -5197,6 +5397,7 @@
    "version": "2.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pic"
    ],
@@ -5242,6 +5443,7 @@
    "version": "1.4.2",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -5287,6 +5489,7 @@
    "version": "7.1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Schiffe v.7.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Games"
    ],
@@ -5328,6 +5531,7 @@
    "version": "0.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Shoot your screen v.03 mod lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5369,6 +5573,7 @@
    "version": "0.9",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Show Clock v.09 mod lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5410,6 +5615,7 @@
    "version": "1.0.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -5455,6 +5661,7 @@
    "version": "5.0.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Smart Addons Panel v.5.0.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -5496,6 +5703,7 @@
    "version": "1.5.8",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Sub"
    ],
@@ -5545,6 +5753,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Subs Support Pro by Odem2014 v.1.4",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -5612,6 +5821,7 @@
    "version": "7.1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Sudoku v.7.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Games"
    ],
@@ -5653,6 +5863,7 @@
    "version": "4.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Suptv Activation v.4.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Nov"
    ],
@@ -5694,6 +5905,7 @@
    "version": "7.1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Tetris v.7.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Games"
    ],
@@ -5735,6 +5947,7 @@
    "version": "5.0.1",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Wea"
    ],
@@ -5784,6 +5997,7 @@
    "version": "5.8",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: The Weather v.5.8 Mod. by iet5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -5851,6 +6065,7 @@
    "version": "8.6",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Epg"
    ],
@@ -5900,6 +6115,7 @@
    "version": "4.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ts Sateditor v. 4.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sys"
    ],
@@ -5964,21 +6180,26 @@
    "id": "tvgarden",
    "category": "extensions",
    "name": "Tvgarden",
-   "version": "2.9",
+   "version": "3.0",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791846252,
    "status_codes": [
     "Free"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/2.9/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/3.0/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "3.0 - تحديث تلقائي من مصدر المطوّر (OwnerPlugins/TVGarden)"
+    ],
     [
      "09.10.2026",
      "المصدر: المطوّر OwnerPlugins"
     ]
    ],
-   "sha256": "6730a07e91908fcb7c84c76bc34282c0b02f29a0b059d914ceab994e9c67a461",
+   "sha256": "415f605bc457692503ef8b7afaf09cfa3a243f5e153ed85b6089cf68f8b70698",
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
    "screenshots": [
     "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
@@ -5986,14 +6207,14 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/2.9/installer.sh",
-     "sha256": "6730a07e91908fcb7c84c76bc34282c0b02f29a0b059d914ceab994e9c67a461",
-     "size": 8547,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/3.0/installer.sh",
+     "sha256": "415f605bc457692503ef8b7afaf09cfa3a243f5e153ed85b6089cf68f8b70698",
+     "size": 5570,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/tvgarden/2.9/installer.sh",
-       "sha256": "6730a07e91908fcb7c84c76bc34282c0b02f29a0b059d914ceab994e9c67a461"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/tvgarden/3.0/installer.sh",
+       "sha256": "415f605bc457692503ef8b7afaf09cfa3a243f5e153ed85b6089cf68f8b70698"
       }
      ]
     }
@@ -6012,6 +6233,7 @@
    "version": "1.88",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -6057,6 +6279,7 @@
    "version": "1.12.20260123",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Visual Weather v.1.12.20260123 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -6124,6 +6347,7 @@
    "version": "1.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Weather Msn v.1.3 r3 py2 py3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -6173,6 +6397,7 @@
    "version": "2.4",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -6226,6 +6451,7 @@
    "version": "1.4",
    "description": "من مستودع المطوّر Belfagor2005 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -6271,6 +6497,7 @@
    "version": "15.9",
    "description": "من مستودع المطوّر m4dhouse مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -6320,6 +6547,7 @@
    "version": "7.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -6365,6 +6593,7 @@
    "version": "5.1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: The Xmlupdate v.5.1.4 Mod. by iet5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sys"
    ],
@@ -6432,6 +6661,7 @@
    "version": "7.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Xtraevent v.7.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Epg"
    ],
@@ -6473,6 +6703,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: ZapTimer by Sisko a v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -6514,6 +6745,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://raw.githubusercontent.com/tarekzoka/tarek/df/installer.sh",
    "host": "github",
    "changelog": [
@@ -6546,6 +6778,7 @@
    "version": "1.76",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -6592,15 +6825,20 @@
    "id": "ciefpyoutube-2",
    "category": "iptv",
    "name": "Ciefpyoutube",
-   "version": "2.0",
-   "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
-   "updated": "10.10.2026",
+   "version": "2.1",
+   "description": "CiefpYoutube - مشغل يوتيوب بنمط \"صندوق الموسيقى\" (Jukebox)، ومشغل كاميرا الويب.",
+   "updated": "13.10.2026",
+   "updated_ts": 1791919343,
    "status_codes": [
     "Ipt"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.0/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.1/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "13.10.2026",
+     "2.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
+    ],
     [
      "10.10.2026",
      "2.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
@@ -6610,22 +6848,23 @@
      "المصدر: المطوّر ciefp"
     ]
    ],
-   "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-iptv.png?v=4b410ee811",
+   "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube-2.png?v=a21a8e8b7c",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-iptv/1.jpg?v=5cd322400a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube-2/1.jpg?v=b6fe3ab850"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.0/installer.sh",
-     "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9",
-     "size": 9623,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.1/installer.sh",
+     "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
+     "size": 11359,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube-2/2.0/installer.sh",
-       "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube-2/2.1/installer.sh",
+       "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8"
       }
      ]
     }
@@ -6635,7 +6874,13 @@
     "3"
    ],
    "author": "ciefp",
-   "homepage": "https://github.com/ciefp/CiefpYouTube"
+   "homepage": "https://github.com/ciefp/CiefpYouTube",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpYoutube - Youtube jukebox player, webcam player"
+    }
+   }
   },
   {
    "id": "customiptvarchivemakerpro",
@@ -6644,6 +6889,7 @@
    "version": "8.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Custom Iptvarchive Maker Pro v.8.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6685,6 +6931,7 @@
    "version": "2.0.12",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: E2m3u2bouquet v.2.0.12 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6752,6 +6999,7 @@
    "version": "1.50",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -6801,6 +7049,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: eStalker web control v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6842,6 +7091,7 @@
    "version": "1.2.0-r0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Gtiptvplayerpro 1.2.0-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6883,6 +7133,7 @@
    "version": "1.8",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -6932,6 +7183,7 @@
    "version": "1.8",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -6977,6 +7229,7 @@
    "version": "2.0.91",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Iptv Archive v.2.0.91 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7044,6 +7297,7 @@
    "version": "6.6.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Iptvdream v.6.6.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7111,6 +7365,7 @@
    "version": "E2iplayer.moh.os",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: E2iplayer v.h1+git3988+7977fec-r4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7152,6 +7407,7 @@
    "version": "6.37",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7201,6 +7457,7 @@
    "version": "3.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: M3U Archimede Universal Converter v.3.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7242,6 +7499,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7277,6 +7535,7 @@
    "version": "1.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Multistalker v.1.5a PY3.10 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7352,6 +7611,7 @@
    "version": "1.2",
    "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7397,6 +7657,7 @@
    "version": "6.2.0.20201122",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Quarterpounder v.6.2.0.20201122 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7464,6 +7725,7 @@
    "version": "1.6",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7509,6 +7771,7 @@
    "version": "1.7",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7558,6 +7821,7 @@
    "version": "1.78",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7607,6 +7871,7 @@
    "version": "5.59",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7656,6 +7921,7 @@
    "version": "2025.03.10",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7691,6 +7957,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: ZouPlayer v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7732,6 +7999,7 @@
    "version": "1.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بانلات. الحزمة: Boxtools_1.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -7770,15 +8038,20 @@
    "id": "ciefp-plugins",
    "category": "panels",
    "name": "Ciefp-plugins",
-   "version": "4.4",
+   "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791823959,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.4/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.5/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "4.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
+    ],
     [
      "10.10.2026",
      "4.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
@@ -7793,20 +8066,21 @@
     ]
    ],
    "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefp-plugins.png?v=cb00d1f366",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefp-plugins/1.jpg?v=f5de2779e3"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.4/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.5/installer.sh",
      "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
      "size": 3129,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefp-plugins/4.4/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefp-plugins/4.5/installer.sh",
        "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d"
       }
      ]
@@ -7815,7 +8089,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpPlugins - user can see information description and images for each of my plugins and install any"
+    }
+   }
   },
   {
    "id": "ciefpbouquetupdater",
@@ -7823,7 +8104,8 @@
    "name": "CiefpBouquetUpdater",
    "version": "1.6",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791829171,
    "status_codes": [
     "Pan"
    ],
@@ -7844,9 +8126,10 @@
     ]
    ],
    "sha256": "664a32aef4712e9df4ffabf30f3776a393f9c8b740a1eea7b1af52801627592a",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpbouquetupdater.png?v=07ef2e354e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpbouquetupdater/1.jpg?v=f4f9baa42f"
    ],
    "downloads": [
     {
@@ -7866,7 +8149,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpBouquetUpdater/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpBouquetUpdater - plugin allows for easy download and update of bouquets"
+    }
+   }
   },
   {
    "id": "ciefpchannelmanager",
@@ -7874,7 +8164,8 @@
    "name": "CiefpChannelManager",
    "version": "1.8",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791829161,
    "status_codes": [
     "Pan"
    ],
@@ -7895,9 +8186,12 @@
     ]
    ],
    "sha256": "97b487557843f952169fe9f2713cc99f116b536a44e29a34528c56b4f9d82e0e",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelmanager.png?v=b5854f8b0e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/1.jpg?v=19a1574bc0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/2.jpg?v=1e00358056",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/3.jpg?v=9a51ac44f6"
    ],
    "downloads": [
     {
@@ -7917,7 +8211,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpChannelManager/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpChannelManager - plugin for managing bouquets, editing channels, deleting, moving channels, and moving bouquets."
+    }
+   }
   },
   {
    "id": "ciefpe2converter",
@@ -7925,7 +8226,8 @@
    "name": "CiefpE2Converter",
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791923964,
    "status_codes": [
     "Pan"
    ],
@@ -7946,9 +8248,12 @@
     ]
    ],
    "sha256": "77e9c95c256cdc0e80b86f86fa0235d8342b7912ea6bcba5fccdf82eea5f5e58",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2converter.png?v=bb8eeda549",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/1.jpg?v=f5d6dfaa11",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/2.jpg?v=887b001bb5",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/3.jpg?v=ff69d0ed60"
    ],
    "downloads": [
     {
@@ -7968,7 +8273,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpE2Converter/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpE2Converter - m3u playlist to userbouquet converter"
+    }
+   }
   },
   {
    "id": "ciefpe2editor",
@@ -7976,7 +8288,8 @@
    "name": "CiefpE2editor",
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791912271,
    "status_codes": [
     "Pan"
    ],
@@ -7997,9 +8310,12 @@
     ]
    ],
    "sha256": "d80288f49dc343ff4a0e19d8c4a92ea898a250069f619c11e79767e51971f4ee",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2editor.png?v=f884c80bff",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/1.jpg?v=776743c922",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/2.jpg?v=80fd39e7ed",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/3.jpg?v=6369b0a35d"
    ],
    "downloads": [
     {
@@ -8019,7 +8335,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpE2editor/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpE2editor - plugin enigma2 editor"
+    }
+   }
   },
   {
    "id": "ciefpeasysetup",
@@ -8027,7 +8350,8 @@
    "name": "CiefpEasySetup",
    "version": "3.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791829163,
    "status_codes": [
     "Pan"
    ],
@@ -8048,9 +8372,10 @@
     ]
    ],
    "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpeasysetup.png?v=0eccc25543",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpeasysetup/1.jpg?v=4090244f1d"
    ],
    "downloads": [
     {
@@ -8070,7 +8395,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpEasySetup/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpEasySetup - plugin for automatic installation of various plugins"
+    }
+   }
   },
   {
    "id": "ciefpepgshare",
@@ -8078,7 +8410,8 @@
    "name": "CiefpEPGshare",
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791919982,
    "status_codes": [
     "Pan"
    ],
@@ -8099,9 +8432,11 @@
     ]
    ],
    "sha256": "a2bf43d098324ffecc169cbe755477c5f11cfee4c8b40dc28eb647432e3e5075",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpepgshare.png?v=55bd17250a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/1.jpg?v=9383b5cffe",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/2.jpg?v=dc22e1d881"
    ],
    "downloads": [
     {
@@ -8121,7 +8456,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpEPGshare/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpEPGshare - plugin for downloading EPG data from epgshare01.online"
+    }
+   }
   },
   {
    "id": "ciefpiptvbouquets",
@@ -8129,7 +8471,8 @@
    "name": "CiefpIPTVBouquets",
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791829166,
    "status_codes": [
     "Pan"
    ],
@@ -8150,9 +8493,12 @@
     ]
    ],
    "sha256": "1d5464dc099da7cd5693497e7ef31b6d3a3aab9c248c380872cd6cff4c9ecae2",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpiptvbouquets.png?v=6bf79d1cd9",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/1.jpg?v=be1eaf7fdc",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/2.jpg?v=c8d97f9bfb",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/3.jpg?v=45a1411972"
    ],
    "downloads": [
     {
@@ -8172,7 +8518,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpIPTVBouquets/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpIPTVBouquets - plugin allows users to install, edit and delete IPTV bouquets"
+    }
+   }
   },
   {
    "id": "ciefpmojtvepg",
@@ -8180,7 +8533,8 @@
    "name": "CiefpMojTvEPG",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791919443,
    "status_codes": [
     "Pan"
    ],
@@ -8201,9 +8555,10 @@
     ]
    ],
    "sha256": "78d81da3b03256d8c12ae29afbe64d3fdcc5bbb664b0519bbb0fc901057b5d48",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpmojtvepg.png?v=46022fc346",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpmojtvepg/1.jpg?v=9bc2a7ee57"
    ],
    "downloads": [
     {
@@ -8223,7 +8578,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpMojTvEPG/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpMojTvEPG - display of TV program EPG from the MojTV website"
+    }
+   }
   },
   {
    "id": "ciefpopendirectories",
@@ -8231,7 +8593,8 @@
    "name": "CiefpOpenDirectories",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791928771,
    "status_codes": [
     "Pan"
    ],
@@ -8252,9 +8615,12 @@
     ]
    ],
    "sha256": "7031194b43e95be4dbe1e1b6bd1e2c3dbff4b6b166a8da82d0fd5c99eacaba73",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopendirectories.png?v=cd33cc3044",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/1.jpg?v=97da0c39e7",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/2.jpg?v=260e659f72",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/3.jpg?v=7f14e7d9c7"
    ],
    "downloads": [
     {
@@ -8274,7 +8640,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOpenDirectories/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpOpenDirectories - plugin for viewing open directories on the web"
+    }
+   }
   },
   {
    "id": "ciefpopensubtitles",
@@ -8282,7 +8655,8 @@
    "name": "CiefpOpenSubtitles",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911898,
    "status_codes": [
     "Pan"
    ],
@@ -8299,9 +8673,13 @@
     ]
    ],
    "sha256": "e51eed65cbf5dcfe88e0546be46f43227c095bc5a40bad1a603d0410499a835b",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopensubtitles.png?v=d3a7700e1b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/1.jpg?v=89ae5f697b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/2.jpg?v=a41a7af2d6",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/3.jpg?v=252df79a41",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/4.jpg?v=f2af9fb271"
    ],
    "downloads": [
     {
@@ -8321,7 +8699,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOpenSubtitles/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpOpenSubtitles - plugin for searching and downloading subtitles with opensubtitles, uses subdl api key"
+    }
+   }
   },
   {
    "id": "ciefposcameditor",
@@ -8329,7 +8714,8 @@
    "name": "CiefpOscamEditor",
    "version": "2.0.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791823964,
    "status_codes": [
     "Pan"
    ],
@@ -8346,9 +8732,12 @@
     ]
    ],
    "sha256": "82c495eb63c4c45522bdc23397b4cab4b5021508d8fb1c3a75f51b54e9aace25",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefposcameditor.png?v=96087381e9",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/1.jpg?v=d9c757bde6",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/2.jpg?v=12921b4375",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/3.jpg?v=833067dc5a"
    ],
    "downloads": [
     {
@@ -8368,7 +8757,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOscamEditor/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpOscamEditor - plugin for editing oscam files"
+    }
+   }
   },
   {
    "id": "ciefpparabolacz",
@@ -8376,7 +8772,8 @@
    "name": "CiefpParabolaCZ",
    "version": "1.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791923967,
    "status_codes": [
     "Pan"
    ],
@@ -8397,9 +8794,13 @@
     ]
    ],
    "sha256": "ee4693e465d6c568e801f2909adafd9af4ae1c8f05580cc2a327d1107eae125e",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpparabolacz.png?v=03f0ba810b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/1.jpg?v=a6298bcc1f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/2.jpg?v=ef487538d9",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/3.jpg?v=9a959ebae4",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/4.jpg?v=a5731b398c"
    ],
    "downloads": [
     {
@@ -8419,7 +8820,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpParabolaCZ/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpParabolaCZ - parabola.cz site browser with text translation, uses groq api key for text translation"
+    }
+   }
   },
   {
    "id": "ciefppictureplayer",
@@ -8427,7 +8835,8 @@
    "name": "CiefpPicturePlayer",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791823952,
    "status_codes": [
     "Pan"
    ],
@@ -8448,9 +8857,11 @@
     ]
    ],
    "sha256": "0b61cf9a16bef8baca51c7b3903a24e6d7760e5908fe81c8a3f65e139c687b0a",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefppictureplayer.png?v=05b697e5e2",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/1.jpg?v=072d6d6b1a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/2.jpg?v=c8215030de"
    ],
    "downloads": [
     {
@@ -8470,21 +8881,33 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPicturePlayer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpPicturePlayer - image viewer online, network, local"
+    }
+   }
   },
   {
    "id": "ciefpplugins",
    "category": "panels",
    "name": "CiefpPlugins",
-   "version": "4.4",
+   "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911689,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.4/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.5/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "4.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
+    ],
     [
      "10.10.2026",
      "4.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
@@ -8499,20 +8922,21 @@
     ]
    ],
    "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpplugins.png?v=cb00d1f366",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpplugins/1.jpg?v=0925cfb4bb"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.4/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.5/installer.sh",
      "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
      "size": 3129,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpplugins/4.4/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpplugins/4.5/installer.sh",
        "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d"
       }
      ]
@@ -8521,7 +8945,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpPlugins - user can see information description and images for each of my plugins and install any"
+    }
+   }
   },
   {
    "id": "ciefprottentomatoes",
@@ -8529,7 +8960,8 @@
    "name": "CiefpRottenTomatoes",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791927074,
    "status_codes": [
     "Pan"
    ],
@@ -8550,9 +8982,12 @@
     ]
    ],
    "sha256": "b4fca40bfb895c4aee380a9d29b84ffaabc88e971126b269b2846b15d78e6073",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefprottentomatoes.png?v=6f3f9f39ae",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/1.jpg?v=402a5068b0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/2.jpg?v=351fcad90c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/3.jpg?v=5fd5ed3b66"
    ],
    "downloads": [
     {
@@ -8572,7 +9007,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpRottenTomatoes/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpRottenTomatoes - plugin for viewing the description of movies series from the website rotten tomatoes"
+    }
+   }
   },
   {
    "id": "ciefpsatelliteanalyzer",
@@ -8580,7 +9022,8 @@
    "name": "CiefpSatelliteAnalyzer",
    "version": "1.8",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791829168,
    "status_codes": [
     "Pan"
    ],
@@ -8601,9 +9044,11 @@
     ]
    ],
    "sha256": "5b4ce4587e4383373c7f9175da6b67a43f48e35bcbfe15a0e17d0799177388fa",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatelliteanalyzer.png?v=7d7beea692",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/1.jpg?v=1be767cd0a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/2.jpg?v=3611ea31e6"
    ],
    "downloads": [
     {
@@ -8623,7 +9068,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSatelliteAnalyzer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSatelliteAnalyzer - Astra-sm analyzer for t2mi and abertis channels"
+    }
+   }
   },
   {
    "id": "ciefpsatellitexmleditor",
@@ -8631,7 +9083,8 @@
    "name": "CiefpSatelliteXmlEditor",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791829170,
    "status_codes": [
     "Pan"
    ],
@@ -8652,9 +9105,10 @@
     ]
    ],
    "sha256": "6829ec6689d622ad7cd30e68ac5c25e5258a2d208043c01e5368ed16bcfa1f4e",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatellitexmleditor.png?v=fa82f9397a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatellitexmleditor/1.jpg?v=44e54ae5d2"
    ],
    "downloads": [
     {
@@ -8674,7 +9128,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSatelliteXmlEditor/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSatellitesXmlEditor - view and edit satellites.xml file"
+    }
+   }
   },
   {
    "id": "ciefpscreengrab",
@@ -8682,7 +9143,8 @@
    "name": "CiefpScreenGrab",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791927078,
    "status_codes": [
     "Pan"
    ],
@@ -8703,9 +9165,12 @@
     ]
    ],
    "sha256": "f53eb603e43eeabdd3d9a60b9233e50b6c9c67484e232befa1135e227103d966",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpscreengrab.png?v=7aff302b35",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/1.jpg?v=f605dbb337",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/2.jpg?v=c86e9cfd8b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/3.jpg?v=81332462ab"
    ],
    "downloads": [
     {
@@ -8725,7 +9190,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpScreenGrab/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpScreenGrab - plugin for creating screenshots and viewing images"
+    }
+   }
   },
   {
    "id": "ciefpselectsatellite",
@@ -8733,7 +9205,8 @@
    "name": "CiefpSelectSatellite",
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791914938,
    "status_codes": [
     "Pan"
    ],
@@ -8754,9 +9227,10 @@
     ]
    ],
    "sha256": "dc353e3cdf480ac63af7ef2c2afd36e9c49c2ff34bc09aa7b2f7504cf8e4003a",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpselectsatellite.png?v=fe3151ea55",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpselectsatellite/1.jpg?v=6bea177e5a"
    ],
    "downloads": [
     {
@@ -8776,7 +9250,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSelectSatellite/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSelectSatellite - plugin can create any version of enigma2 list from engine list by selecting satellites"
+    }
+   }
   },
   {
    "id": "ciefpsettingsdownloader",
@@ -8784,7 +9265,8 @@
    "name": "CiefpSettingsDownloader",
    "version": "2.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791912264,
    "status_codes": [
     "Pan"
    ],
@@ -8805,9 +9287,11 @@
     ]
    ],
    "sha256": "febed1097c6aa92fb0dc97a789e949030e6a9ba7bc3229f8594f85d7510c9758",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingsdownloader.png?v=7bc347d2d1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/1.jpg?v=10e95ba86d",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/2.jpg?v=a6d5be1137"
    ],
    "downloads": [
     {
@@ -8827,21 +9311,33 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSettingsDownloader/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Ciefpsettings Downloader - plugin downloads all available versions of enigma2 lists from github"
+    }
+   }
   },
   {
    "id": "ciefpsettingspanel",
    "category": "panels",
    "name": "CiefpsettingsPanel",
-   "version": "7.1",
+   "version": "7.2",
    "description": "بانل تسطيب اضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791823955,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.1/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    ],
     [
      "10.10.2026",
      "7.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -8856,20 +9352,21 @@
     ]
    ],
    "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingspanel.png?v=ee71e58643",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingspanel/1.jpg?v=205cfdafd8"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.1/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.2/installer.sh",
      "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
      "size": 3166,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingspanel/7.1/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingspanel/7.2/installer.sh",
        "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc"
       }
      ]
@@ -8878,7 +9375,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
+    }
+   }
   },
   {
    "id": "ciefpsettingst2miabertis",
@@ -8886,7 +9390,8 @@
    "name": "CiefpSettingsT2miAbertis",
    "version": "2.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791823957,
    "status_codes": [
     "Pan"
    ],
@@ -8907,9 +9412,10 @@
     ]
    ],
    "sha256": "fe36a96848f7aa41feb472ba2e8f4b12693de5e528c6114cbd77243a24a9fdee",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingst2miabertis.png?v=be95b1600a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingst2miabertis/1.jpg?v=63d0b22ce7"
    ],
    "downloads": [
     {
@@ -8929,7 +9435,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertis/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpT2MiAbertis - plugin for automatic installation of files for t2mi and abertis channels streamrelay."
+    }
+   }
   },
   {
    "id": "ciefpsrtplayer",
@@ -8937,7 +9450,8 @@
    "name": "CiefpSRTplayer",
    "version": "1.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791923965,
    "status_codes": [
     "Pan"
    ],
@@ -8958,9 +9472,10 @@
     ]
    ],
    "sha256": "605a9fcbb39da5e1c3bcb8ade07f4cf03f723426356ace982a90ab88f53e9a45",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsrtplayer.png?v=e5d20b5e7a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsrtplayer/1.jpg?v=a974615940"
    ],
    "downloads": [
     {
@@ -8980,7 +9495,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSRTplayer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSRTplayer - SRT subtitle player for enigma2"
+    }
+   }
   },
   {
    "id": "ciefpstreamrelaypy2",
@@ -8988,7 +9510,8 @@
    "name": "CiefpStreamrelayPY2",
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911661,
    "status_codes": [
     "Pan"
    ],
@@ -9005,9 +9528,10 @@
     ]
    ],
    "sha256": "718c0c874b920c9557da96abd600fd4a914341cacf8727b6b112916420e8f5ec",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy2.png?v=c5227e0377",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy2/1.png?v=3417f53678"
    ],
    "downloads": [
     {
@@ -9027,7 +9551,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelayPY2/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpStreamrelay py2 - plugin automatically generates and creates streamrelay bouquets"
+    }
+   }
   },
   {
    "id": "ciefpstreamrelaypy3",
@@ -9035,7 +9566,8 @@
    "name": "CiefpStreamrelayPY3",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911655,
    "status_codes": [
     "Pan"
    ],
@@ -9056,9 +9588,10 @@
     ]
    ],
    "sha256": "4bbeefe095728e4a55484a330035de25f85143dc201331e3f2cf621d96d5aa17",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy3.png?v=3f97bfe940",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy3/1.jpg?v=e87102d43c"
    ],
    "downloads": [
     {
@@ -9078,7 +9611,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelay/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpStreamrelay py3 - plugin automatically generates and creates streamrelay bouquets"
+    }
+   }
   },
   {
    "id": "ciefpt2miabertisopenpli",
@@ -9086,7 +9626,8 @@
    "name": "CiefpT2miAbertisOpenPLi",
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911894,
    "status_codes": [
     "Pan"
    ],
@@ -9107,9 +9648,10 @@
     ]
    ],
    "sha256": "d08b146bf49d43a74b55af8c2dcb40864070707c55ad8f44c3652bbff39782cf",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpt2miabertisopenpli.png?v=317760b187",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpt2miabertisopenpli/1.png?v=4d2de4b991"
    ],
    "downloads": [
     {
@@ -9129,7 +9671,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertisOpenPLi/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSettings T2MI Abertis OpenPLi 1.1\nis a customized version for OpenPLi\nwhich enables the installation and configuration of add-ons required for using T2MI and Abertis satellite settings."
+    }
+   }
   },
   {
    "id": "ciefptitlovibrowser",
@@ -9137,7 +9686,8 @@
    "name": "CiefpTitloviBrowser",
    "version": "1.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791919441,
    "status_codes": [
     "Pan"
    ],
@@ -9158,9 +9708,13 @@
     ]
    ],
    "sha256": "efddc1513ebd74535badf8ae6102a24aaf3eca65fbf8be3e607874d06b20dac3",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptitlovibrowser.png?v=a0987fbb10",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/1.jpg?v=5549cdfea0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/2.jpg?v=5549cdfea0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/3.jpg?v=205667c4e1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/4.jpg?v=153cfa4ae1"
    ],
    "downloads": [
     {
@@ -9180,7 +9734,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/TitloviBrowser/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Titlovi Browser - plugin for searching and downloading subtitles from titlovi.com"
+    }
+   }
   },
   {
    "id": "ciefptmdbsearch",
@@ -9188,7 +9749,8 @@
    "name": "CiefpTMDBSearch",
    "version": "2.6",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791823962,
    "status_codes": [
     "Pan"
    ],
@@ -9209,9 +9771,12 @@
     ]
    ],
    "sha256": "886df2b9121a2925da47cef7e88e503fefebd648ac31921581e965e2350d7277",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptmdbsearch.png?v=80d40a92fc",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/1.jpg?v=fdc20d648a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/2.jpg?v=ae625b1383",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/3.jpg?v=a1c4c08d55"
    ],
    "downloads": [
     {
@@ -9231,7 +9796,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTMDBSearch/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTMDBSearch - search for descriptions of movies, series of trailers from the TMDB site, uses tmdb.omdb api key"
+    }
+   }
   },
   {
    "id": "ciefptvprogram",
@@ -9239,7 +9811,8 @@
    "name": "CiefpTvProgram",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791919436,
    "status_codes": [
     "Pan"
    ],
@@ -9260,9 +9833,10 @@
     ]
    ],
    "sha256": "45fae995cabc974f4b5c46d481d44b8f8bea194156fee3d592f20e0067181066",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogram.png?v=6be789cf12",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogram/1.jpg?v=910aaaa4f5"
    ],
    "downloads": [
     {
@@ -9282,7 +9856,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgram/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgram - display of TV program EPG for SR, HR and BIH channels"
+    }
+   }
   },
   {
    "id": "ciefptvprograma1hr",
@@ -9290,7 +9871,8 @@
    "name": "CiefpTvProgramA1HR",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911685,
    "status_codes": [
     "Pan"
    ],
@@ -9311,9 +9893,10 @@
     ]
    ],
    "sha256": "45a95d802f2edf6f858dc8f860be4055d8b532caf248878904b41713e80d183c",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprograma1hr.png?v=75ffdb5b27",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprograma1hr/1.jpg?v=322b191839"
    ],
    "downloads": [
     {
@@ -9333,7 +9916,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramA1HR/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgramA1HR - display of TV program EPG for A1 Croatia"
+    }
+   }
   },
   {
    "id": "ciefptvprogramsbb",
@@ -9341,7 +9931,8 @@
    "name": "CiefpTvProgramSBB",
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791917767,
    "status_codes": [
     "Pan"
    ],
@@ -9358,9 +9949,11 @@
     ]
    ],
    "sha256": "5b89d62c5d12ab51af4c51db076f2e5bfc641bbf08d04a77e2411e46ff24d812",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsbb.png?v=54f491ef29",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/1.jpg?v=a386480d1e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/2.jpg?v=b8d06078c9"
    ],
    "downloads": [
     {
@@ -9380,7 +9973,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramSBB/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgramSBB - display of TV program EPG for SBB Serbia"
+    }
+   }
   },
   {
    "id": "ciefptvprogramsk",
@@ -9388,7 +9988,8 @@
    "name": "CiefpTvProgramSK",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911681,
    "status_codes": [
     "Pan"
    ],
@@ -9409,9 +10010,11 @@
     ]
    ],
    "sha256": "41080c7d4e02da27f2d7451f4e72be3f7b646e69814d2f37238602f49202536d",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsk.png?v=0a5932b465",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/1.jpg?v=7c2ead1ee9",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/2.jpg?v=937852c3e7"
    ],
    "downloads": [
     {
@@ -9431,7 +10034,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramSK/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgramSK - display of TV program EPG for SK channels"
+    }
+   }
   },
   {
    "id": "ciefptvtodayde",
@@ -9439,7 +10049,8 @@
    "name": "CiefpTvTodayDE",
    "version": "1.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911676,
    "status_codes": [
     "Pan"
    ],
@@ -9460,9 +10071,11 @@
     ]
    ],
    "sha256": "71cf1be5c2eacff4a99a0ad6422966f4eb8db3d86b3eb295d7b14fa98dbf9735",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvtodayde.png?v=847b8e25db",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/1.jpg?v=9b8a6b9239",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/2.jpg?v=17a9ff50a5"
    ],
    "downloads": [
     {
@@ -9482,7 +10095,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvTodayDE/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvTodayDE - display of TV program EPG for DE channels"
+    }
+   }
   },
   {
    "id": "ciefpvibes",
@@ -9490,7 +10110,8 @@
    "name": "CiefpVibes",
    "version": "2.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
+   "updated_ts": 1791829174,
    "status_codes": [
     "Pan"
    ],
@@ -9511,9 +10132,12 @@
     ]
    ],
    "sha256": "90af5ee0b8b6988327b0f57e19d11cd12322fc4036ff438fa195dadeb43b9845",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvibes.png?v=9d60c077b1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/1.jpg?v=6976e48aef",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/2.jpg?v=c420dc727a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/3.jpg?v=8027297a4b"
    ],
    "downloads": [
     {
@@ -9533,7 +10157,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpVibes/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpVibes - Enigma2 music jukebox plugin local,online,network,opendirectory"
+    }
+   }
   },
   {
    "id": "ciefpvideoplayer",
@@ -9541,7 +10172,8 @@
    "name": "CiefpVideoPlayer",
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791915350,
    "status_codes": [
     "Pan"
    ],
@@ -9562,9 +10194,14 @@
     ]
    ],
    "sha256": "be09093234102499c687e36e9be6979e51d00ee3902899726bcbabce5cc398f4",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvideoplayer.png?v=2dd04cdfa5",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/1.jpg?v=636ba22f29",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/2.jpg?v=8a39b59903",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/3.jpg?v=7f8c05af3e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/4.jpg?v=417d82d816",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/5.jpg?v=816238f0ca"
    ],
    "downloads": [
     {
@@ -9584,7 +10221,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpVideoPlayer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpVideoPlayer - video player online, network, local,use tmdb,omdb api key for TMDB posters"
+    }
+   }
   },
   {
    "id": "ciefpwebcame2prenjsf",
@@ -9592,7 +10236,8 @@
    "name": "CiefpWebCamE2PrenjSF",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791914919,
    "status_codes": [
     "Pan"
    ],
@@ -9609,9 +10254,11 @@
     ]
    ],
    "sha256": "836b57595d97c35131bbd80b46e82de063c9b5d32ca0b691036c1613084af781",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf.png?v=867c8bbf95",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/1.jpg?v=3875189ebd",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/2.jpg?v=ff713aec5a"
    ],
    "downloads": [
     {
@@ -9631,7 +10278,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "WebcamE2PRenjSF - webcam player and downloader"
+    }
+   }
   },
   {
    "id": "ciefpwhiteliststreamrelay",
@@ -9639,7 +10293,8 @@
    "name": "CiefpWhitelistStreamrelay",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791920586,
    "status_codes": [
     "Pan"
    ],
@@ -9660,9 +10315,10 @@
     ]
    ],
    "sha256": "fd133e6bad0ad6cf7ab30b107a8aa4e8ec346b24a7e70b425bda8cdb1c959a23",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwhiteliststreamrelay.png?v=e26ea0e83e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwhiteliststreamrelay/1.jpg?v=69082df908"
    ],
    "downloads": [
     {
@@ -9682,19 +10338,27 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpWhitelistStreamrelay/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpWhitelistStreamrelay - plugin for automatic generation of whitelist_streamrelay file"
+    }
+   }
   },
   {
    "id": "ciefpyoutube",
    "category": "panels",
    "name": "CiefpYouTube",
-   "version": "2.0",
+   "version": "2.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791914944,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.0/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.1/installer.sh",
    "host": "github",
    "changelog": [
     [
@@ -9710,22 +10374,25 @@
      "latest"
     ]
    ],
-   "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube.png?v=a21a8e8b7c",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/1.jpg?v=7114ba099b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/2.jpg?v=d1e8035d13",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/3.jpg?v=4ca139e4b1"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.0/installer.sh",
-     "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9",
-     "size": 9623,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.1/installer.sh",
+     "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
+     "size": 11359,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube/2.0/installer.sh",
-       "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube/2.1/installer.sh",
+       "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8"
       }
      ]
     }
@@ -9733,21 +10400,33 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpYoutube - Youtube jukebox player, webcam player"
+    }
+   }
   },
   {
    "id": "ciefsettingspanel",
    "category": "panels",
    "name": "Ciefsettingspanel",
-   "version": "7.1",
+   "version": "7.2",
    "description": "بانل تسطيب اضافات",
-   "updated": "10.10.2026",
+   "updated": "13.10.2026",
+   "updated_ts": 1791911671,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.1/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    ],
     [
      "10.10.2026",
      "7.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -9762,20 +10441,23 @@
     ]
    ],
    "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefsettingspanel.png?v=44d9349348",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/1.jpg?v=bc464d94e6",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/2.jpg?v=ed32a47649",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/3.jpg?v=a90c956910"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.1/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.2/installer.sh",
      "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
      "size": 3166,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefsettingspanel/7.1/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefsettingspanel/7.2/installer.sh",
        "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc"
       }
      ]
@@ -9784,7 +10466,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
+    }
+   }
   },
   {
    "id": "corvoboyspanel",
@@ -9793,6 +10482,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -9828,6 +10518,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -9873,6 +10564,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -9908,6 +10600,7 @@
    "version": "5.8-r2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بانلات. الحزمة: Epanel v.5.8-r2",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -9949,6 +10642,7 @@
    "version": "10.1-r31",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -9996,6 +10690,7 @@
    "version": "3.4",
    "description": "بانل تسطيب كامات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10043,6 +10738,7 @@
    "version": "3.0.6",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10084,47 +10780,13 @@
    ]
   },
   {
-   "id": "magicpanelgold",
-   "category": "panels",
-   "name": "Magicpanelgold",
-   "version": "latest",
-   "description": "بانل تسطيب اضافات",
-   "updated": "09.10.2026",
-   "status_codes": [
-    "Pan"
-   ],
-   "url": "https://raw.githubusercontent.com/Ham-ahmed/G10/refs/heads/main/MagicPanelGold-install.sh",
-   "host": "github",
-   "changelog": [
-    [
-     "09.10.2026",
-     "latest"
-    ]
-   ],
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
-   "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
-   ],
-   "downloads": [
-    {
-     "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ham-ahmed/G10/refs/heads/main/MagicPanelGold-install.sh"
-    }
-   ],
-   "python": [
-    "2",
-    "3"
-   ],
-   "author": "Ham-ahmed",
-   "homepage": "https://github.com/Ham-ahmed/G10"
-  },
-  {
    "id": "mohamedstore",
    "category": "panels",
    "name": "MohamedStore",
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10160,6 +10822,7 @@
    "version": "3.2",
    "description": "بانل تسطيب بيكونات و ملفات قنوات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10207,6 +10870,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10260,6 +10924,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بانلات. الحزمة: Plugins Panels Show Plugin v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10301,6 +10966,7 @@
    "version": "2.3.4",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10348,6 +11014,7 @@
    "version": "2.3.4",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10395,6 +11062,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10440,6 +11108,7 @@
    "version": "3.4",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10485,6 +11154,7 @@
    "version": "8.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Aglare v.8.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.5_all.ipk",
    "host": "github",
    "changelog": [
@@ -10523,6 +11193,7 @@
    "version": "7.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Aglare pli AGP v.7.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_7.2_all.ipk",
    "host": "github",
    "changelog": [
@@ -10569,6 +11240,7 @@
    "version": "2.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Copper v.2.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-copper-fhd_2.3_all.ipk",
    "host": "github",
    "changelog": [
@@ -10607,6 +11279,7 @@
    "version": "7.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Fury v.7.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -10645,6 +11318,7 @@
    "version": "1.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: HD Line Super 1.2 Sami-Noor + Plug.Msn mod all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super-mod_1.2-sami-noor_all.ipk",
    "host": "github",
    "changelog": [
@@ -10691,6 +11365,7 @@
    "version": "2.21",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Jihad v.2.21 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-jihad_2.21_all.ipk",
    "host": "github",
    "changelog": [
@@ -10729,6 +11404,7 @@
    "version": "2.8",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Madmax impossible v.2.8 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-madmax-impossible_2.8_all.ipk",
    "host": "github",
    "changelog": [
@@ -10767,6 +11443,7 @@
    "version": "2.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Malek v.2.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -10813,6 +11490,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Maxy v.1.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.4_all.ipk",
    "host": "github",
    "changelog": [
@@ -10851,6 +11529,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Maxy pli v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -10889,6 +11568,7 @@
    "version": "4.0.posters",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Metrix ItalySat 8 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrix-fhd_italysat8_all.ipk",
    "host": "github",
    "changelog": [
@@ -10927,6 +11607,7 @@
    "version": "7.5.6",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Metrix Neo v13 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk",
    "host": "github",
    "changelog": [
@@ -10973,6 +11654,7 @@
    "version": "5.4",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/nitroadvance-fhd/5.4/installer.sh",
    "host": "github",
    "changelog": [
@@ -11015,6 +11697,7 @@
    "version": "4.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Novaler s Green v.4.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novaler-s-fhd-green_4.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11053,6 +11736,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Novax v.2.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novax-fhd_2.1_all.ipk",
    "host": "github",
    "changelog": [
@@ -11099,6 +11783,7 @@
    "version": "3.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Premium Black v.3.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd-black_3.1_all.ipk",
    "host": "github",
    "changelog": [
@@ -11137,6 +11822,7 @@
    "version": "3.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Premium Blue v.3.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd-blue_3.1_all.ipk",
    "host": "github",
    "changelog": [
@@ -11175,6 +11861,7 @@
    "version": "2.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/revolution-pro/2.1/installer.sh",
    "host": "github",
    "changelog": [
@@ -11217,6 +11904,7 @@
    "version": "1.52.20250817",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Slyk Q 1080 r19 v.1.52.20250817 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.52.20250817_all.ipk",
    "host": "github",
    "changelog": [
@@ -11255,6 +11943,7 @@
    "version": "14.2-r3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: GosatPlus Ncam 14.2-r3 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11293,6 +11982,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: GosatPlus Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11331,6 +12021,7 @@
    "version": "13.5-r0",
    "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ncam/13.5-r0/installer.sh",
    "host": "github",
    "changelog": [
@@ -11373,6 +12064,7 @@
    "version": "11.708",
    "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/oscam/11.708/installer.sh",
    "host": "github",
    "changelog": [
@@ -11415,6 +12107,7 @@
    "version": "10.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Oscam IcamEmu v.10.0.Update-no-Kitte888 all ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.ipk",
    "host": "github",
    "changelog": [
@@ -11453,6 +12146,7 @@
    "version": "14.2-r3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Powercam Ncam 14.2-r3 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11491,6 +12185,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Powercam Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11529,6 +12224,7 @@
    "version": "14.4-r0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Supcam Ncam 14.4-r0 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11567,6 +12263,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Supcam Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11605,6 +12302,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Ultracam Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11643,6 +12341,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم أدوات وإصلاح. الحزمة: Opkg Tools 1.4",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-opkg-tools_1.4_all.ipk",
    "host": "github",
    "dangerous": true,
@@ -11679,6 +12378,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "p4vwPYWe/ah7G93vzAt43R/Pp/mBW6U6KRjHX29lFX0dlBWIfaq47sR4rvA3T75Dq0CnR7InHwDHhGezHZskAg=="
+  "sig": "zui5/IVtX1RywQLniPoOglTOymWExTBJyTxh8ruSmu7pQuMKmAuuwn1WNOdgpIq8/qtIDt29Z5LDd6W/9/2LAQ=="
  }
 }
